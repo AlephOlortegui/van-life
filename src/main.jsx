@@ -14,5 +14,5 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   </React.StrictMode>,
 )
 
-/* Lesson 14  1:02:10
-Route Params Part 1 */
+/* Lesson 33  2:41:14
+adding host vans routes */
